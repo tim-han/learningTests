@@ -19,7 +19,7 @@ import static org.springframework.test.util.MatcherAssertionErrors.assertThat;
 @RunWith(SpringJUnit4ClassRunner.class)
 //@WebAppConfiguration
 @ContextConfiguration("/spring/applicationContext.xml")
-public class LearningTests {
+public class LearningTest {
 
     @Test
     public void testJackson() throws Exception {
