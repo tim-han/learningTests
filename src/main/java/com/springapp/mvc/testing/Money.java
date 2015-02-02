@@ -1,4 +1,4 @@
-package com.springapp.mvc.tdd;
+package com.springapp.mvc.testing;
 
 /**
  * Created by yjhan on 15. 2. 2..
