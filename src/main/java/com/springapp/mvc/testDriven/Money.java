@@ -1,4 +1,4 @@
-package com.springapp.mvc.testing;
+package com.springapp.mvc.testDriven;
 
 /**
  * Created by yjhan on 15. 2. 2..

@@ -1,6 +1,6 @@
 package com.springapp.mvc;
 
-import com.springapp.mvc.testing.Money;
+import com.springapp.mvc.testDriven.Money;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
